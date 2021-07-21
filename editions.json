@@ -1,21 +1,21 @@
 {
 	"editions": [
 		{
-			"id": "kathir_small",
-			"edition": "kathir",
-			"version": 1,
-			"date": "2021-07-15",
-			"file": "edition/kathir-small.zip",
-			"description": "نسخة مصغرة",
-			"changelog": ""
-		},
-		{
 			"id": "kathir_full",
 			"edition": "kathir",
 			"version": 1,
 			"date": "2021-07-15",
 			"file": "edition/kathir.zip",
 			"description": "نسخة كاملة",
+			"changelog": ""
+		},
+		{
+			"id": "kathir_small",
+			"edition": "kathir",
+			"version": 1,
+			"date": "2021-07-15",
+			"file": "edition/kathir-small.zip",
+			"description": "نسخة مصغرة",
 			"changelog": ""
 		}
 	]
