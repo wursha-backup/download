@@ -1,0 +1,25 @@
+{
+  "mushafs": [
+    {
+      "id": "kathir",
+      "edition": "kathir",
+      "version": 1,
+      "date": "2021-07-15",
+      "downloadUrl": "https://download.wursha.com/mushafs/kathir-v1.zip",
+      "onlineUrl": "https://unity.wursha.com/edition/kathir",
+      "description": "نسخة كاملة",
+      "changelog": "",
+      "sizeInMB": 42
+    },
+    {
+      "id": "kathir_small",
+      "edition": "kathir",
+      "version": 1,
+      "date": "2021-07-15",
+      "downloadUrl": "https://download.wursha.com/mushafs/kathir-small-v1.zip",
+      "description": "نسخة مصغرة",
+      "changelog": "",
+      "sizeInMB": 0.6
+    }
+  ]
+}
